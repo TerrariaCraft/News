@@ -1,12 +1,13 @@
-var version = "12.1.3";
-var date = "19.01.2020";
+var version = "12.1.5";
+var date = "30.01.2020";
 
 var changes = 
 [
-"Added switch;",
-"Fixed few localization typos;",
-"Internal relocations to new API set;",
-"Have fun!"
+"Implemented chains and ropes",
+"Re-invented world generator (kind of)",
+"Optimize wire rendering",
+"Fix torch lighting",
+"Fix glowing slime rendering issue"
 ];
 
 document.getElementById("uname").innerHTML = "TerrariaCraft v" + version;
