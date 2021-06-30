@@ -1,0 +1,88 @@
+
+Changes for 12.4.24:
+> [0] Allow more than just one forge version to run the mod.
+> Prepare public build.
+> [0] Some tweaks to internal code.
+> [0] Some tweaks to internal code.
+> [3] The Archilles; Oasis & Ocean Crate.
+> [8] Megashark, Candy Corn Rifle (and Candy Corns); Dungeon & Frozen Crates; Hardened Sand; Sturdy & Desert Fossils.
+> [0] Update Vivecraft API name.
+> [0] Vivecraft API compat.
+> [1] Crimson crates; Cursor API; Item Faving; Fixed a lot of loot tables to match 1.4; Improvements to item transfering inside GUIs; Sounds registration with addon API; Proper deferred registries for addons.
+> [0] Initial minimap work
+> [0] Fixed knockback, further work on addon API.
+> [0] Rest of fishing bobbers, presents are now generated using a net-synced seed.
+> [0] More fishing poles bobber models.
+> [0] Update russian language.
+> [0] Update russian language.
+> [1] Candy cane sword
+> [15] Presents; Coal; Christmas-themed food; Other fishing poles (except hotline)
+> [4] Crate potion; Spear; Trident; Swordfish; Terraria Craft window name and icon; Patches for ore and silt generation; Tweaked hill generation.
+> [0] Improved Item View Panel API
+> [0] Moved model creation into the IBuiltinModelItem class.
+> [0] Update demon eye model (+animation)
+> [1] Heartreach potion; Hearts and Mana starts now have seasoned variants.
+> [5] Endurance and wrath potions; Blue, Green and Pink jellyfishes (baits).
+> [0] Finish fishing mechanics, more fishing poles coming soon.
+> [0] APIs for addon development as well as addon development kit.
+> [1] Wood fishing pole; Refactored a lot of recipe code and made it a lot more flexible.
+> [0] More work on fluids, fishing bobbers WIP.
+> [0] Full in-game day now takes 24 real-world minutes instead of 20.
+> [40] Fishing Potion + Buff; Fishing accessories; Fishing food; Fishing items;
+> [0] Move rest of ASM ito mixins.
+> [0] Hotfixed cobweb generating on surface rarely;
+> [0] Split cube generation into passes with optional profiling; hotfixed new armor head rendering gone wrong; Vines can now grow into fluids; prevent items dropping while populating cubes;
+> [0] Lots of small bugfixes.
+> [0] Hotfix cactus armor spikes rendering.
+> [1] Tundra pots, snow biome cabins generation.
+> [1] Green Dungeon Bookcase; Vast improvements to the fluid physics, proper fluid logging for both tiles and non-tiles.
+> [0] Fix money not dropping from inventory & money in the inventory not being used/counted when purchasing.
+> [0] Move part of ASM into Mixins, upgrade fluid flow. Fluid-loggable chests, fix issue with crafting UI.
+> [0] Russian translation.
+> [10] Philosopher's Stone; Meteor, Crimson, Angler Armors; Jungle Underground Cabin; Hellstone generates lava when broken.
+> [3] Cactus Armor.
+> [0] More noise worldgen shenanigans, fixed some armor set bonuses to match 1.4.
+> [0] Added altar generation into the world; Added crimson vines; Fixed sky light leaking in caves.
+> [0] Optimize worldgen passes.
+> [0] Fixed localizations.
+> [3] Can of Worms, King Slime Treasure Bag, Royal Gel; Destiny Player for items (lets only one player to pickup the item); Text wrapping in creative menu widget.
+> [1] Jellyfish Necklace; tooltip text is finally wrapping to the screen width.
+> [7] Flower Boots, Magma Stone, Magma Skull, Molten Skull Rose, Obsidian Skull Rose, Flurry Boots, Lucky Coin ITEMS; Hellfire debuff.
+> [0] Improvements on world generation, jungles improvements, fix memory leak.
+> [4] Frog Leg, Flipper, Frog Flipper, Amphibian Boots, Prevent repeating jumps without frog legs.
+> [1] Enchanted Sword Shrine, New Cave Generation.
+> [0] Jungle Shrine, improved loot table API [implementations and references]
+> [0] 2 more variations of abandoned houses, fixed most if not all VRAM leakages, flipped slopes.
+> [0] Abandoned house with gold chest generation.
+> [2] Owl & Dragonfly statues; Bloody water; Fix mob spawns too close; Fluid Physics Improvements; Optimization tweaks screen.
+> [0] /tc command.
+> [0] Added slime rain, snow and rain into the game.
+> [2] Gills Potion and Bottled Honey. Added water pond generation.
+> [0] Refactored Buff API.
+> [12] Flower Seeds (9), Obsidian Rose, Lava Charm, Molten Charm. Further improvements for fluid physics.
+> [18] Enemies creative tab; Fixed a few sync and data save issues; Gnome joke haha funny; Fixed sprinting bug (now it is completely disabled)
+> [3] Gold & Platinum crows, crispy honey block, finite fluids(FINALLY), weather rendering API sketch.
+> [0] King slime despawn and improved AI.
+> [1] Slime Crown, KING SLIME!
+> [1] Gnome, Garden Gnome, Heliophobia achievement.
+> [0] Change how critical damage random function works, made zombies spawn only on solid blocks, removed todo.
+> [3] 3 angler fishing baits.
+> [3] Lesser,Normal,Greater Luck Potions, luck buff.
+> [1] Frog statue.
+> [2] Ladybugs.
+> [2] Massive item and code refactors.
+> [2] Shackle, Zombie Arm, translation refactors, tooltip refactors.
+> [0] Added gore vide setting, 2 new zombie models.
+> [5] Lunar and Martian Chairs; Zombies.
+> [0] Tweaked Yoyo rendering and added yoyo retreat if too far.
+> [12] More Yoyos, Frostburn Arrow (and debuff), new achievements
+> [25] Yoyos & Colored Strings
+> [6] Frogs; Sauteed Frog Legs; Dynasty, Palm Wood, Sandstone
+> [4] Scorpion & Turtle Statues, Turtle & Jungle Turtle.
+> [0] Update ru_ru
+> [3] Explosive Bunny, Owl, Guide To Critter Companionship
+> [0] Fixed HP rendering 0, fixed world variables not updating.
+> [0] IAnimatableEntity for starting animations from server side.
+> [6] Oyster,Shucked Oyster, White&Black&Pink pearls, Burger, Hornets(!), AI improvements for stats calculation, begin working on luck(!).
+> [1] Shark tooth necklace, refactored lots of artifact sub-interfaces as capabilities.
+> [8] Added Lavafly & Dragonflies; Changed events (bloodMoon, solarEclipse, windyDay), improved slime models.
